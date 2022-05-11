@@ -1,1 +1,3 @@
-# ds3002-project2-data-ingestion-analysis
+# Data Ingestion and Analysis
+
+## How it Works 
