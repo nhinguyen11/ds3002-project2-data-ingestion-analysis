@@ -12,14 +12,16 @@ Last 6 lines of database.
 <img width="1213" alt="Screen Shot 2022-05-11 at 4 41 01 PM" src="https://user-images.githubusercontent.com/98042008/167944237-bccb7708-18bd-4306-8d51-f7c129342a55.png">
 
 ## Analysis
-![figure1](https://user-images.githubusercontent.com/98042008/167944449-3b9ee761-2e2c-4f4f-9166-c3cffca74c40.png)\n
+![figure1](https://user-images.githubusercontent.com/98042008/167944449-3b9ee761-2e2c-4f4f-9166-c3cffca74c40.png)
 
 Scatterplot of the relationship between 'time' and 'factor'. There is a strong, positive, and linear relationship between the two variables. The points are fitted precisely along a line. There two outliers near the begining.
+
 
 
 ![figure2](https://user-images.githubusercontent.com/98042008/167944478-a864eb6c-78ed-404b-8b71-bf15344a228d.png)
 
 Scatterplot of the relationship between 'time' and 'pi'. There is a slight positive relationship at the begining, but the points soon gather to form a horizsontal line. This means that the two variables are not correlated and have no relationship. Once again, the two outliers appear near the beginning.
+
 
 
 ![figure3](https://user-images.githubusercontent.com/98042008/167944499-fc3e54aa-ade1-49a6-a0a5-4476397d4bd4.png)
