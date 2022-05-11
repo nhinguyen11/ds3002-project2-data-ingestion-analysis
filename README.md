@@ -12,7 +12,7 @@ Last 6 lines of database.
 <img width="1213" alt="Screen Shot 2022-05-11 at 4 41 01 PM" src="https://user-images.githubusercontent.com/98042008/167944237-bccb7708-18bd-4306-8d51-f7c129342a55.png">
 
 ## Analysis
-![figure1](https://user-images.githubusercontent.com/98042008/167944449-3b9ee761-2e2c-4f4f-9166-c3cffca74c40.png)
+![figure1](https://user-images.githubusercontent.com/98042008/167944449-3b9ee761-2e2c-4f4f-9166-c3cffca74c40.png)\n
 Scatterplot of the relationship between 'time' and 'factor'. There is a strong, positive, and linear relationship between the two variables. The points are fitted precisely along a line. There two outliers near the begining.
 
 
